@@ -1,5 +1,6 @@
 <?php
 use App\Http\Controllers\API\AuthController;
+use App\Http\Controllers\UserController;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -20,4 +21,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::post('/register', [AuthController::class, 'register']);
 Route::post('/login', [AuthController::class, 'login']);
+Route::put('/user/edit', [UserController::class, 'edit'])->middleware('auth:api');
+;
 

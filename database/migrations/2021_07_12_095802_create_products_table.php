@@ -17,10 +17,10 @@ class CreateProductsTable extends Migration
             $table->id();
 
             $table->string('name');
-            $table->unsignedBigInteger('category_id');
-            $table->foreign('category_id')->references('id')->on('categories')->onDelete('restrict')->onUpdate('cascade');       
-            $table->unsignedBigInteger('subcategory_id');
-            $table->foreign('subcategory_id')->references('id')->on('subcategories')->onDelete('restrict')->onUpdate('cascade');          
+            $table->unsignedBigInteger('category_id')->nullable();
+            $table->foreign('category_id')->references('id')->on('categories')->onDelete('set null')->onUpdate('cascade');       
+            $table->unsignedBigInteger('subcategory_id')->nullable();
+            $table->foreign('subcategory_id')->references('id')->on('subcategories')->onDelete('set null')->onUpdate('cascade');          
             $table->enum('product_type', ['delivery', 'normal']);            
             $table->longText('description', 500);
             $table->float('price', 8, 2);
