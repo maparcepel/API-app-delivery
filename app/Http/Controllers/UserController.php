@@ -42,7 +42,7 @@ class UserController extends Controller
         $user = User::findOrFail($authenticatedUserId);
 
         if (!Hash::check( $validatedData['old_password'], $user->password)){
-            return response(['message' => 'Invalid old password']);
+            return response(['message' => 'Invalid old password'], 401);
         }
 
         $validatedData['password'] = Hash::make($request->password);
