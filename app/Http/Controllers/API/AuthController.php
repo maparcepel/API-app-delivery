@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use App\Models\User;
+
 class AuthController extends Controller
 {
     
@@ -13,10 +14,10 @@ class AuthController extends Controller
 
         $validatedData = $request->validate([
             'name'      => 'required|max:255',
-            'surname'      => 'required|max:255',
-            'phone'      => 'required|max:9',
+            'surname'   => 'required|max:255',
+            'phone'     => 'required|max:20',
             'email'     => 'required|email|unique:users',
-            'user_type'      => 'required|max:20',
+            'user_type' => 'required|max:20',
             'password'  => 'required|confirmed'
         ]);
         
@@ -40,7 +41,7 @@ class AuthController extends Controller
         ]);
 
         if(!auth()->attempt($loginData)){
-            return response(['message' => 'Invalid credentials']);
+            return response(['message' => 'Invalid credentials'], 401);
         }
 
         $accessToken = auth()->user()->createToken('authToken')->accessToken;
