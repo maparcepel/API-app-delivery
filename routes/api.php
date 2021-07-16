@@ -22,5 +22,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::post('/register', [AuthController::class, 'register']);
 Route::post('/login', [AuthController::class, 'login']);
 Route::put('/user/edit', [UserController::class, 'edit'])->middleware('auth:api');
-;
+Route::put('/user/changePassword', [UserController::class, 'changePassword'])->middleware('auth:api');
 
