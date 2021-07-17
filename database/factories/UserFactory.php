@@ -5,6 +5,7 @@ namespace Database\Factories;
 use App\Models\User;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Hash;
 
 class UserFactory extends Factory
 {
@@ -22,11 +23,15 @@ class UserFactory extends Factory
      */
     public function definition()
     {
+        $user_type = ['admin', 'customer'];
+
         return [
             'name' => $this->faker->name(),
+            'phone' => $this->faker->phoneNumber(),
             'email' => $this->faker->unique()->safeEmail(),
             'email_verified_at' => now(),
-            'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', // password
+            'user_type' => $user_type[rand(0,1)],
+            'password' => Hash::make('1234'), 
             'remember_token' => Str::random(10),
         ];
     }
