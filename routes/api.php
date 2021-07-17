@@ -1,6 +1,7 @@
 <?php
 use App\Http\Controllers\API\AuthController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\CategoryController;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -24,3 +25,4 @@ Route::post('/login', [AuthController::class, 'login']);
 Route::put('/user/edit', [UserController::class, 'edit'])->middleware('auth:api');
 Route::put('/user/changePassword', [UserController::class, 'changePassword'])->middleware('auth:api');
 
+Route::get('/categories/get', [CategoryController::class, 'get']);
