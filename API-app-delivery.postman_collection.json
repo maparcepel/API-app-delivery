@@ -36,7 +36,7 @@
 						},
 						{
 							"key": "email",
-							"value": "maparcepel3@gmail.com",
+							"value": "maparcepel@gmail.com",
 							"type": "text"
 						},
 						{
@@ -396,6 +396,78 @@
 						"api",
 						"products",
 						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "setOrder",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWI0MzY4ZDkzNGQ4ZjUwMWFjYjM0OWZkZTA3ZmZlM2E3ZDJmNWE5ZGFhNzBkOGFlYjE4OWVjMjQyZmIwZGQzZTFiYzhiMzI1Y2JlMTIxZjAiLCJpYXQiOjE2MjY2MjE0MTguNDE2NDQ1LCJuYmYiOjE2MjY2MjE0MTguNDE2NDUyLCJleHAiOjE2NTgxNTc0MTguNDA3MDg2LCJzdWIiOiIxMSIsInNjb3BlcyI6W119.QYgFEyShrVTS-bJjjl9bWJmfzCAV_Hgv8MYbngEunv4LhMNlPYC6-eHurfwGzYW8E3iOwORiBd40QrFD9PDOoQ-WTcxCCLlNTtLgmkxjz004MyWuF19HD98H6lD3_sbH6yiNeqSFncG69jgjt-bywYB6iSGOe0o_ffR8TwmzbHodo4Qx1-YNtWi50XdM3vP15I46Pir00xMib_udj4TBun0I-w3QZ4-i8xIO8_3sj_A2Xm2W9yye_ZdAIev48X4qDScu-XqvdZvW8FLGNG53h-asVRw9mfOtnSG-VfurxgtKADJcFksXm4kSsJ-qldB5DwYLdQrPWh9NjyqkvW2Frwckpscx_5F2Eev6kRZVCEOCzviHvADa-eSDOCaDrE34RooN9c_ycLV37Tg0nhh3kZTGpWYYBqZdxHnPeKWDTxX2kSK7kVUEVwPLaal8ZhDkvkbERnsP9fMUURH_zEbhYBtuSeqH_JnFKbmxh4JOkArZz1P0EIlQ7A7bYBC4zRnAkkF23nNsElcJlTqEL-O5WUrORvdbUQibgCySwRSlrk3HDxACaT-lljBx375KX2Z5J9SqjJd-dWLoRXuO0OhbHqj0dKCUF61WSyt53gEslFC80DcOkKT9MZ00HiMcVLqBexXfSOHN7SnTjJm2e9ynkmW2j2Y8AbJkKNLw7scsQuE",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "pickup_day",
+							"value": "12/08/2020",
+							"type": "text"
+						},
+						{
+							"key": "pickup_time",
+							"value": "13:25:50",
+							"type": "text"
+						},
+						{
+							"key": "address",
+							"value": "pl. de Sants, 11, 08028, Barcelona",
+							"type": "text"
+						},
+						{
+							"key": "payment_type",
+							"value": "credit card",
+							"type": "text"
+						},
+						{
+							"key": "items",
+							"value": "[{\"product_id\":1,\"quantity\":5},{\"product_id\":4,\"quantity\":3}]",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/setorder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"setorder"
 					]
 				}
 			},
