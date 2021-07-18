@@ -33,3 +33,4 @@ Route::get('/products/get', [ProductController::class, 'get']);
 Route::post('/products/search', [ProductController::class, 'search']);
 
 Route::post('/setorder', [OrderController::class, 'setOrder'])->middleware('auth:api');
+Route::get('/history/get', [OrderController::class, 'historyGet'])->middleware('auth:api');

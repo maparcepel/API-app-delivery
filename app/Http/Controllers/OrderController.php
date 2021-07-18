@@ -58,4 +58,26 @@ class OrderController extends Controller{
 
     }
 
+    public function historyGet(Request $request){
+
+        $user_id = auth()->user()->id;
+
+        $orders = Order::where(['user_id' => $user_id])->get();
+
+        $orders =  $orders->map(function ($order) {
+
+            $items = OrderItem::where(['order_id' => $order['id']])->get();
+            $items =  $items->map(function ($item) {
+                return collect($item)->except(['order_id', 'created_at', 'updated_at'])->toArray();
+            });    
+
+            return [
+                'order' => collect($order)->except(['user_id', 'created_at', 'updated_at'])->toArray(),
+                'items' => $items
+            ];
+            
+        });
+        return  $orders;
+    }
+
 }
