@@ -29,3 +29,4 @@ Route::put('/user/changePassword', [UserController::class, 'changePassword'])->m
 Route::get('/categories/get', [CategoryController::class, 'get']);
 
 Route::get('/products/get', [ProductController::class, 'get']);
+Route::post('/products/search', [ProductController::class, 'search']);

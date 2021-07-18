@@ -40,5 +40,31 @@ class ProductController extends Controller {
         return $products;
     }
 
+    public function search (Request $request){
+
+        $product_type = $request->product_type;
+
+        if(empty($product_type) || !in_array($product_type, ['delivery', 'normal'])){
+            return response(['message' => 'You must select type of product delivery or normal'], 400);
+        }
+
+        $search = $request->search;
+
+        if(empty($search)){
+            return response(['message' => 'search field is empty'], 400);
+        }
+
+        $products = Product::where('product_type', $product_type)->get();
+
+        $search_terms = explode(' ', $request->search);
+
+        $products = $products->filter(function ($product) use ($search_terms){
+            foreach($search_terms as $search_term){
+                return preg_match('%'.strtolower($search_term).'%', strtolower($product->description)) 
+                    || preg_match('%'.strtolower($search_term).'%', strtolower($product->name));
+            };
+        });
+
+        return $products;
+    }
 }
-// empty($categoryId)
