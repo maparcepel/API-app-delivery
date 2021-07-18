@@ -36,7 +36,7 @@
 						},
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "maparcepel3@gmail.com",
 							"type": "text"
 						},
 						{
@@ -92,7 +92,7 @@
 					"urlencoded": [
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "maparcepel3@gmail.com",
 							"type": "text"
 						},
 						{
@@ -131,7 +131,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDc3ZGE4ZjZjYjM2NWQxY2FmNGQyNzZkMjgzMTViNGE5NDMzMzQ1MGZmZTM2NDk0ZjY5ZGMzZWZhNmZkZGQ1ZTQzYWUzNjM4M2ZiZTU3MGUiLCJpYXQiOjE2MjY1MTU4MTMuNzk2MzgxLCJuYmYiOjE2MjY1MTU4MTMuNzk2Mzg5LCJleHAiOjE2NTgwNTE4MTMuNzg3NzQ2LCJzdWIiOiIxMiIsInNjb3BlcyI6W119.Z8q0ch1JzbPPbej0DrjEYtyvuFgBvfW4fn23xg4p-s7f90gwKI7OlXTkk6SWfianzUO_9KUAY5YTiTqoVVm3AND4TV7MpUQJ6TWFvtl2x31HROdHEQ7afbTrb2CH-hO4yimbDFYgOw7_okckJrd5YMscSCVZul2qE04myy0drfvVe0h0t-bzeD67_QJjLriPQQ4-ffdcom8RLPeb4g0kfqicBKQPdXi2Jpja6MsAPc0z0igUzhsYF2mH5UWsHJeMfr4CzuSYmgIhn5zUoaTgkU4idOH0J2CiBKTjLwstFxDhf2B2YrblffhmhkQXE80CopRmW6SoPOLOW78g_R8exBJJIV-GPLy8YjXiYgdt4rkic6gECusw2lVByyyhCMtiattjhxsVEQICen35OXRvRiCS7Nd5reCIeccq5pfn0CTmylcLreU2L05lfbkA6phFQdQAx7odNNlA1jLqrSZ29iG-z3Y3bMx-VS27KadN9dbvP7xeBhJl4Cj4fbmDDI2rBTGrOOvr-v8JKQkUiOjdEaKbMx_OiH7wQ40y_RQTSPQHdrNmpReLrPAcLHUtZS0OdcouUlwD8y4G1Qt4-2zlHVAm-WemDfOP8tn35GpM0-w65joD6rAQRwHUyQPmY7wpf7gW7dAJ3itYDEH7JWvR_gxSEfgcx_AxJymhP2NCOzs",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTM0YWY4NjQzNThkNmY5NDhiMmM4N2Y1ZDNhMjdmYTU3NzY0ODg0YjJjMzViZDJiNmNiOTQwZmEwNDYxYWVmNDU4OWU4MWJmZGVkYWM2MDAiLCJpYXQiOjE2MjY2MDU2MTkuNjk2Nzk5LCJuYmYiOjE2MjY2MDU2MTkuNjk2ODA4LCJleHAiOjE2NTgxNDE2MTkuNDc2NTM0LCJzdWIiOiIxMSIsInNjb3BlcyI6W119.JwbvpOzRtnuGizyeZd5zOK1Pvw8QgDGS0uIVcQNN7FTH0oQ-x-_Y5ISbBcqrxNU0XTcVcWhr7xPALVRY7l2shSV-4K8fsxXvd3q8xTDu2rtbiDgn4tUrHMkBMidtGkOLx9wFHchtbT5MvDoaYgmZ3xXgATGjAoVfbfLIsz4huZ_Nhzj-unJD4BxgVZzuFZ_OM5_u-gHhdW0LxDlYYVJdrqr1W1gqGLJcK4P52Q-4jbNPrxmpi1FIsa0ApvumW0eZOIWzz6mWhgs7B2mhyI7u4usVohqHGFL39Dx8xhRiGsCrwjUe0BygGr68DzgpOFPzvORe3tycje8rs5gJu0G0Lz0ujQBLXPQ45-n5WUKM07X9Ijva3jYHKJqKdkSaM3CcM1vJ7tcqKy5-hkFGYmdjIoUIzkzX0dAwk0GWimH7QI4nyczX5nAaePf2zSkUIRWVJWELleLQfeEJ9Z7wZGKrGGh1o4MwyNGG_nSS2hlWdiPz8WKx-BK3shKOH04NGPplKX88kfdVkqUkPRP5wUmHVlrsRx6RWLrGDKCWm2C2aEAez2ppyHblHFwJ1B5_AmO3MCBSnPQscJSxMTR-Yw3Ccgme2wuIt9PYl37Z3JplXZFGp1FmzoWeskdKRDLgMRslnmuPs55meoEvWIfeQgl9nF5xgZJ-XfAIRdrby9BP37E",
 							"type": "string"
 						}
 					]
@@ -149,7 +149,7 @@
 					"urlencoded": [
 						{
 							"key": "name",
-							"value": "Marcosua",
+							"value": "Marcosuaqq",
 							"type": "text"
 						},
 						{
@@ -164,7 +164,7 @@
 						},
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "maparcepel3@gmail.com",
 							"type": "text"
 						},
 						{
@@ -204,7 +204,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDc3ZGE4ZjZjYjM2NWQxY2FmNGQyNzZkMjgzMTViNGE5NDMzMzQ1MGZmZTM2NDk0ZjY5ZGMzZWZhNmZkZGQ1ZTQzYWUzNjM4M2ZiZTU3MGUiLCJpYXQiOjE2MjY1MTU4MTMuNzk2MzgxLCJuYmYiOjE2MjY1MTU4MTMuNzk2Mzg5LCJleHAiOjE2NTgwNTE4MTMuNzg3NzQ2LCJzdWIiOiIxMiIsInNjb3BlcyI6W119.Z8q0ch1JzbPPbej0DrjEYtyvuFgBvfW4fn23xg4p-s7f90gwKI7OlXTkk6SWfianzUO_9KUAY5YTiTqoVVm3AND4TV7MpUQJ6TWFvtl2x31HROdHEQ7afbTrb2CH-hO4yimbDFYgOw7_okckJrd5YMscSCVZul2qE04myy0drfvVe0h0t-bzeD67_QJjLriPQQ4-ffdcom8RLPeb4g0kfqicBKQPdXi2Jpja6MsAPc0z0igUzhsYF2mH5UWsHJeMfr4CzuSYmgIhn5zUoaTgkU4idOH0J2CiBKTjLwstFxDhf2B2YrblffhmhkQXE80CopRmW6SoPOLOW78g_R8exBJJIV-GPLy8YjXiYgdt4rkic6gECusw2lVByyyhCMtiattjhxsVEQICen35OXRvRiCS7Nd5reCIeccq5pfn0CTmylcLreU2L05lfbkA6phFQdQAx7odNNlA1jLqrSZ29iG-z3Y3bMx-VS27KadN9dbvP7xeBhJl4Cj4fbmDDI2rBTGrOOvr-v8JKQkUiOjdEaKbMx_OiH7wQ40y_RQTSPQHdrNmpReLrPAcLHUtZS0OdcouUlwD8y4G1Qt4-2zlHVAm-WemDfOP8tn35GpM0-w65joD6rAQRwHUyQPmY7wpf7gW7dAJ3itYDEH7JWvR_gxSEfgcx_AxJymhP2NCOzs",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDEwZWY4ZmU3NzY3ZWE2OGVkMGJlYWVlMTY5YzM1NjMyNWJhMGExMjVjZjUwYmM4ZmUwZDc2OWE1Mjg5N2EwOWEyMzQ3M2JmMjQyOTIxNWQiLCJpYXQiOjE2MjY1Mzg1MjYuOTU2NzE4LCJuYmYiOjE2MjY1Mzg1MjYuOTU2NzI2LCJleHAiOjE2NTgwNzQ1MjYuOTQ2MzY1LCJzdWIiOiIxMyIsInNjb3BlcyI6W119.h4XdUtOTqmK7N4ujRlztQ3yvXjoA4q8F_pNUbAho6S6bjwFYwDKlPK11fH7PTg26If3NVVw17UUx-rj1TlaLp0JYqPnkSG4cOej_0mpXoLzpUanh2-Z631FB5r2g2gjqKn7NkHFGYOTM5__lrOBm9Am4iwWRr9vwgPqON9FYgoCzUav2DbElCnmdkXqIcOmfCYImEtI_Gv7qF-RELBsQB5xmaT1mKTygH-d4fZbOn-X-dmbtrQ-WXbLOEuaP4YBeQ5WtmeUsMLK4-iIKXwiqFsS5W3EJo7W9zDWbJmSii2LoU_fdPl9MNjht-NqNt7QSg--qjcMMej8oV6O6XMe7IUwwEw3OFtYjM84SaXTiSGPapMafPomPFeyMv6vWnE-tUD2ArSDNF2DBkytGv5MEGT-1muOV6vje0V9NluAJN4BhnvGNr2qJp2Sbs4_J5eL1C3qx05iCzEcJaO03uV5NvG42pYczYsnOZYVAdrDGoWAriQxG4ordg9gUEhnK4MDUyhZs0gkHpVQg1rq1rR3yHzhg9HxNH3PwY0pOorGqiKMdzS4z0LqtWVLszrG9BaowTTS_SFfD4Kq7190VHyid993bwN5Nv3Eu5nUZ7ex5aof55z4svD_4K89mDyRBClEFSsRgWDbr3ak-0ozJBSt4BoI7hUREd4v-HJa5ER58ndk",
 							"type": "string"
 						}
 					]
@@ -264,14 +264,7 @@
 			},
 			"request": {
 				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmFjY2JjNWVhYzQwM2EwM2RlNjcxNTczM2ZjNzJhZDU1NjU1Yjk4MmMyMDU2OTdkY2I5Mjc4NWMzYjA5MzhhZGIyN2UyZWJhMWMyNzcyNDkiLCJpYXQiOjE2MjY0NTY1MjQuNzI0NjkxLCJuYmYiOjE2MjY0NTY1MjQuNzI0Njk4LCJleHAiOjE2NTc5OTI1MjQuNjU4MTE2LCJzdWIiOiI2Iiwic2NvcGVzIjpbXX0.Mpo_zcZy_sc5riTWcE60CHbZ22xDRn93I5a--0MVfxHNWXzEkk1pUoXOlpmP4o0o5SEhO4nPSS7-UTjyOmWz3T6jrNLYqewswHXYlYwh02q8sA5KNHB1x956rTIgHr07zI4YVqAv_i9arCKtPypIkRk7fT4hwMWhDoeBRN1aKX-1R58Cmsr8O-8zZRxiZKv-ANTyqWG1yEtgeZ2qyZqhDgE2hMyggTdMa8XNRIUbHXb6Rf0rJlt5DaowlaRyZyM2rTQTjw1sdBK5181Ps_zvShXuCnBfaB-djFBOk0bht15jAS70qLPgUFtJaovP3IydAv8LPfnOs0GmBRiLOupIOe_ioq982B0JVNGF9gFIK-VN9PgmKm4rHU70FHe__X9R9m1OF1cJ8Ki0Vwe6wnOKPmYej59KGfgniN0mpHR2bVpKRvW-GnlPCqESLIiGmv8-Xd66BejeY23pYjbxJJ7DX4I9-bwrWqnbewYvIwqIHb37DHTlYCP6alywIPkJ9S1JMDm7iV8THH54KBUlkSEdjmT5FOrO-uwreHwsZIuyIEfRsxF8zbX3NNM7Lzb0h3tY1kqC8L7ulwK6Q2Vpf3eQamS0vUneKsRZw-0oPh-8Gaz5-17rER45d92WGVf9oUoTkHRk39SQbSdjgq37-QDWFY7kp0KYY_lGtLaeFinom0M",
-							"type": "string"
-						}
-					]
+					"type": "noauth"
 				},
 				"method": "GET",
 				"header": [
@@ -297,6 +290,112 @@
 						"api",
 						"categories",
 						"get"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products/get",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": []
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/products/get?product_type=normal&category_ids=[3]&subcategory_ids=[8, 9]",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"products",
+						"get"
+					],
+					"query": [
+						{
+							"key": "product_type",
+							"value": "normal"
+						},
+						{
+							"key": "category_ids",
+							"value": "[3]"
+						},
+						{
+							"key": "subcategory_ids",
+							"value": "[8, 9]"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products/search",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "product_type",
+							"value": "normal",
+							"type": "text"
+						},
+						{
+							"key": "search",
+							"value": "EST",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/products/search",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"products",
+						"search"
 					]
 				}
 			},

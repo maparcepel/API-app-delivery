@@ -3,6 +3,7 @@ use App\Http\Controllers\API\AuthController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\OrderController;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -30,3 +31,5 @@ Route::get('/categories/get', [CategoryController::class, 'get']);
 
 Route::get('/products/get', [ProductController::class, 'get']);
 Route::post('/products/search', [ProductController::class, 'search']);
+
+Route::post('/setorder', [OrderController::class, 'setOrder'])->middleware('auth:api');
