@@ -20,6 +20,8 @@ class CreateOrdersTable extends Migration
             $table->foreign('user_id')->references('id')->on('users')->onDelete('restrict')->onUpdate('cascade');            
             $table->date('pickup_day')->nullable();
             $table->time('pickup_time')->nullable();
+            $table->date('delivery_day')->nullable();
+            $table->time('delivery_time')->nullable();
             $table->string('address', 250);
             $table->timestamp('order_date');
             $table->enum('payment_type', ['cash', 'credit card']);

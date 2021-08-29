@@ -14,6 +14,8 @@ class Order extends Model
         'user_id',
         'pickup_day',
         'pickup_time',
+        'delivery_day',
+        'delivery_time',
         'address',
         'payment_type'
     ];

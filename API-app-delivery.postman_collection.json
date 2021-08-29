@@ -26,17 +26,17 @@
 					"urlencoded": [
 						{
 							"key": "name",
-							"value": "Marcel",
+							"value": "apple",
 							"type": "text"
 						},
 						{
 							"key": "phone",
-							"value": "625941002",
+							"value": "666666666",
 							"type": "text"
 						},
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
@@ -92,7 +92,7 @@
 					"urlencoded": [
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
@@ -131,7 +131,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDc3ZGE4ZjZjYjM2NWQxY2FmNGQyNzZkMjgzMTViNGE5NDMzMzQ1MGZmZTM2NDk0ZjY5ZGMzZWZhNmZkZGQ1ZTQzYWUzNjM4M2ZiZTU3MGUiLCJpYXQiOjE2MjY1MTU4MTMuNzk2MzgxLCJuYmYiOjE2MjY1MTU4MTMuNzk2Mzg5LCJleHAiOjE2NTgwNTE4MTMuNzg3NzQ2LCJzdWIiOiIxMiIsInNjb3BlcyI6W119.Z8q0ch1JzbPPbej0DrjEYtyvuFgBvfW4fn23xg4p-s7f90gwKI7OlXTkk6SWfianzUO_9KUAY5YTiTqoVVm3AND4TV7MpUQJ6TWFvtl2x31HROdHEQ7afbTrb2CH-hO4yimbDFYgOw7_okckJrd5YMscSCVZul2qE04myy0drfvVe0h0t-bzeD67_QJjLriPQQ4-ffdcom8RLPeb4g0kfqicBKQPdXi2Jpja6MsAPc0z0igUzhsYF2mH5UWsHJeMfr4CzuSYmgIhn5zUoaTgkU4idOH0J2CiBKTjLwstFxDhf2B2YrblffhmhkQXE80CopRmW6SoPOLOW78g_R8exBJJIV-GPLy8YjXiYgdt4rkic6gECusw2lVByyyhCMtiattjhxsVEQICen35OXRvRiCS7Nd5reCIeccq5pfn0CTmylcLreU2L05lfbkA6phFQdQAx7odNNlA1jLqrSZ29iG-z3Y3bMx-VS27KadN9dbvP7xeBhJl4Cj4fbmDDI2rBTGrOOvr-v8JKQkUiOjdEaKbMx_OiH7wQ40y_RQTSPQHdrNmpReLrPAcLHUtZS0OdcouUlwD8y4G1Qt4-2zlHVAm-WemDfOP8tn35GpM0-w65joD6rAQRwHUyQPmY7wpf7gW7dAJ3itYDEH7JWvR_gxSEfgcx_AxJymhP2NCOzs",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
 							"type": "string"
 						}
 					]
@@ -149,22 +149,17 @@
 					"urlencoded": [
 						{
 							"key": "name",
-							"value": "Marcosua",
-							"type": "text"
-						},
-						{
-							"key": "surname",
-							"value": "moco",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
 							"key": "phone",
-							"value": "625941002",
+							"value": "555555555",
 							"type": "text"
 						},
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
@@ -204,7 +199,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDc3ZGE4ZjZjYjM2NWQxY2FmNGQyNzZkMjgzMTViNGE5NDMzMzQ1MGZmZTM2NDk0ZjY5ZGMzZWZhNmZkZGQ1ZTQzYWUzNjM4M2ZiZTU3MGUiLCJpYXQiOjE2MjY1MTU4MTMuNzk2MzgxLCJuYmYiOjE2MjY1MTU4MTMuNzk2Mzg5LCJleHAiOjE2NTgwNTE4MTMuNzg3NzQ2LCJzdWIiOiIxMiIsInNjb3BlcyI6W119.Z8q0ch1JzbPPbej0DrjEYtyvuFgBvfW4fn23xg4p-s7f90gwKI7OlXTkk6SWfianzUO_9KUAY5YTiTqoVVm3AND4TV7MpUQJ6TWFvtl2x31HROdHEQ7afbTrb2CH-hO4yimbDFYgOw7_okckJrd5YMscSCVZul2qE04myy0drfvVe0h0t-bzeD67_QJjLriPQQ4-ffdcom8RLPeb4g0kfqicBKQPdXi2Jpja6MsAPc0z0igUzhsYF2mH5UWsHJeMfr4CzuSYmgIhn5zUoaTgkU4idOH0J2CiBKTjLwstFxDhf2B2YrblffhmhkQXE80CopRmW6SoPOLOW78g_R8exBJJIV-GPLy8YjXiYgdt4rkic6gECusw2lVByyyhCMtiattjhxsVEQICen35OXRvRiCS7Nd5reCIeccq5pfn0CTmylcLreU2L05lfbkA6phFQdQAx7odNNlA1jLqrSZ29iG-z3Y3bMx-VS27KadN9dbvP7xeBhJl4Cj4fbmDDI2rBTGrOOvr-v8JKQkUiOjdEaKbMx_OiH7wQ40y_RQTSPQHdrNmpReLrPAcLHUtZS0OdcouUlwD8y4G1Qt4-2zlHVAm-WemDfOP8tn35GpM0-w65joD6rAQRwHUyQPmY7wpf7gW7dAJ3itYDEH7JWvR_gxSEfgcx_AxJymhP2NCOzs",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
 							"type": "string"
 						}
 					]
@@ -227,12 +222,12 @@
 						},
 						{
 							"key": "password",
-							"value": "12345",
+							"value": "123456",
 							"type": "text"
 						},
 						{
 							"key": "password_confirmation",
-							"value": "12345",
+							"value": "123456",
 							"type": "text"
 						}
 					]
@@ -264,14 +259,7 @@
 			},
 			"request": {
 				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmFjY2JjNWVhYzQwM2EwM2RlNjcxNTczM2ZjNzJhZDU1NjU1Yjk4MmMyMDU2OTdkY2I5Mjc4NWMzYjA5MzhhZGIyN2UyZWJhMWMyNzcyNDkiLCJpYXQiOjE2MjY0NTY1MjQuNzI0NjkxLCJuYmYiOjE2MjY0NTY1MjQuNzI0Njk4LCJleHAiOjE2NTc5OTI1MjQuNjU4MTE2LCJzdWIiOiI2Iiwic2NvcGVzIjpbXX0.Mpo_zcZy_sc5riTWcE60CHbZ22xDRn93I5a--0MVfxHNWXzEkk1pUoXOlpmP4o0o5SEhO4nPSS7-UTjyOmWz3T6jrNLYqewswHXYlYwh02q8sA5KNHB1x956rTIgHr07zI4YVqAv_i9arCKtPypIkRk7fT4hwMWhDoeBRN1aKX-1R58Cmsr8O-8zZRxiZKv-ANTyqWG1yEtgeZ2qyZqhDgE2hMyggTdMa8XNRIUbHXb6Rf0rJlt5DaowlaRyZyM2rTQTjw1sdBK5181Ps_zvShXuCnBfaB-djFBOk0bht15jAS70qLPgUFtJaovP3IydAv8LPfnOs0GmBRiLOupIOe_ioq982B0JVNGF9gFIK-VN9PgmKm4rHU70FHe__X9R9m1OF1cJ8Ki0Vwe6wnOKPmYej59KGfgniN0mpHR2bVpKRvW-GnlPCqESLIiGmv8-Xd66BejeY23pYjbxJJ7DX4I9-bwrWqnbewYvIwqIHb37DHTlYCP6alywIPkJ9S1JMDm7iV8THH54KBUlkSEdjmT5FOrO-uwreHwsZIuyIEfRsxF8zbX3NNM7Lzb0h3tY1kqC8L7ulwK6Q2Vpf3eQamS0vUneKsRZw-0oPh-8Gaz5-17rER45d92WGVf9oUoTkHRk39SQbSdjgq37-QDWFY7kp0KYY_lGtLaeFinom0M",
-							"type": "string"
-						}
-					]
+					"type": "noauth"
 				},
 				"method": "GET",
 				"header": [
@@ -296,6 +284,232 @@
 						"public",
 						"api",
 						"categories",
+						"get"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products/get",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": []
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/products/get?product_type=&category_ids=[3]&subcategory_ids=[10]",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"products",
+						"get"
+					],
+					"query": [
+						{
+							"key": "product_type",
+							"value": ""
+						},
+						{
+							"key": "category_ids",
+							"value": "[3]"
+						},
+						{
+							"key": "subcategory_ids",
+							"value": "[10]"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products/search",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "product_type",
+							"value": "delivery",
+							"type": "text"
+						},
+						{
+							"key": "search",
+							"value": "dolor",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/products/search",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"products",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "setOrder",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "pickup_day",
+							"value": "12/08/2020",
+							"type": "text"
+						},
+						{
+							"key": "pickup_time",
+							"value": "13:25:50",
+							"type": "text"
+						},
+						{
+							"key": "address",
+							"value": "pl. de Sants, 11, 08028, Barcelona",
+							"type": "text"
+						},
+						{
+							"key": "payment_type",
+							"value": "credit card",
+							"type": "text"
+						},
+						{
+							"key": "items",
+							"value": "[{\"product_id\":1,\"quantity\":5},{\"product_id\":4,\"quantity\":3}]",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/setorder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"setorder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "history/get",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": []
+				},
+				"url": {
+					"raw": "http://localhost/API-app-delivery/public/api/history/get",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"API-app-delivery",
+						"public",
+						"api",
+						"history",
 						"get"
 					]
 				}
