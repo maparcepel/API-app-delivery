@@ -26,17 +26,17 @@
 					"urlencoded": [
 						{
 							"key": "name",
-							"value": "Marcel",
+							"value": "apple",
 							"type": "text"
 						},
 						{
 							"key": "phone",
-							"value": "625941002",
+							"value": "666666666",
 							"type": "text"
 						},
 						{
 							"key": "email",
-							"value": "maparcepel@gmail.com",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
@@ -92,7 +92,7 @@
 					"urlencoded": [
 						{
 							"key": "email",
-							"value": "maparcepel3@gmail.com",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
@@ -131,7 +131,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTM0YWY4NjQzNThkNmY5NDhiMmM4N2Y1ZDNhMjdmYTU3NzY0ODg0YjJjMzViZDJiNmNiOTQwZmEwNDYxYWVmNDU4OWU4MWJmZGVkYWM2MDAiLCJpYXQiOjE2MjY2MDU2MTkuNjk2Nzk5LCJuYmYiOjE2MjY2MDU2MTkuNjk2ODA4LCJleHAiOjE2NTgxNDE2MTkuNDc2NTM0LCJzdWIiOiIxMSIsInNjb3BlcyI6W119.JwbvpOzRtnuGizyeZd5zOK1Pvw8QgDGS0uIVcQNN7FTH0oQ-x-_Y5ISbBcqrxNU0XTcVcWhr7xPALVRY7l2shSV-4K8fsxXvd3q8xTDu2rtbiDgn4tUrHMkBMidtGkOLx9wFHchtbT5MvDoaYgmZ3xXgATGjAoVfbfLIsz4huZ_Nhzj-unJD4BxgVZzuFZ_OM5_u-gHhdW0LxDlYYVJdrqr1W1gqGLJcK4P52Q-4jbNPrxmpi1FIsa0ApvumW0eZOIWzz6mWhgs7B2mhyI7u4usVohqHGFL39Dx8xhRiGsCrwjUe0BygGr68DzgpOFPzvORe3tycje8rs5gJu0G0Lz0ujQBLXPQ45-n5WUKM07X9Ijva3jYHKJqKdkSaM3CcM1vJ7tcqKy5-hkFGYmdjIoUIzkzX0dAwk0GWimH7QI4nyczX5nAaePf2zSkUIRWVJWELleLQfeEJ9Z7wZGKrGGh1o4MwyNGG_nSS2hlWdiPz8WKx-BK3shKOH04NGPplKX88kfdVkqUkPRP5wUmHVlrsRx6RWLrGDKCWm2C2aEAez2ppyHblHFwJ1B5_AmO3MCBSnPQscJSxMTR-Yw3Ccgme2wuIt9PYl37Z3JplXZFGp1FmzoWeskdKRDLgMRslnmuPs55meoEvWIfeQgl9nF5xgZJ-XfAIRdrby9BP37E",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
 							"type": "string"
 						}
 					]
@@ -149,22 +149,17 @@
 					"urlencoded": [
 						{
 							"key": "name",
-							"value": "Marcosuaqq",
-							"type": "text"
-						},
-						{
-							"key": "surname",
-							"value": "moco",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
 							"key": "phone",
-							"value": "625941002",
+							"value": "555555555",
 							"type": "text"
 						},
 						{
 							"key": "email",
-							"value": "maparcepel3@gmail.com",
+							"value": "apple@abalit.org",
 							"type": "text"
 						},
 						{
@@ -204,7 +199,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDEwZWY4ZmU3NzY3ZWE2OGVkMGJlYWVlMTY5YzM1NjMyNWJhMGExMjVjZjUwYmM4ZmUwZDc2OWE1Mjg5N2EwOWEyMzQ3M2JmMjQyOTIxNWQiLCJpYXQiOjE2MjY1Mzg1MjYuOTU2NzE4LCJuYmYiOjE2MjY1Mzg1MjYuOTU2NzI2LCJleHAiOjE2NTgwNzQ1MjYuOTQ2MzY1LCJzdWIiOiIxMyIsInNjb3BlcyI6W119.h4XdUtOTqmK7N4ujRlztQ3yvXjoA4q8F_pNUbAho6S6bjwFYwDKlPK11fH7PTg26If3NVVw17UUx-rj1TlaLp0JYqPnkSG4cOej_0mpXoLzpUanh2-Z631FB5r2g2gjqKn7NkHFGYOTM5__lrOBm9Am4iwWRr9vwgPqON9FYgoCzUav2DbElCnmdkXqIcOmfCYImEtI_Gv7qF-RELBsQB5xmaT1mKTygH-d4fZbOn-X-dmbtrQ-WXbLOEuaP4YBeQ5WtmeUsMLK4-iIKXwiqFsS5W3EJo7W9zDWbJmSii2LoU_fdPl9MNjht-NqNt7QSg--qjcMMej8oV6O6XMe7IUwwEw3OFtYjM84SaXTiSGPapMafPomPFeyMv6vWnE-tUD2ArSDNF2DBkytGv5MEGT-1muOV6vje0V9NluAJN4BhnvGNr2qJp2Sbs4_J5eL1C3qx05iCzEcJaO03uV5NvG42pYczYsnOZYVAdrDGoWAriQxG4ordg9gUEhnK4MDUyhZs0gkHpVQg1rq1rR3yHzhg9HxNH3PwY0pOorGqiKMdzS4z0LqtWVLszrG9BaowTTS_SFfD4Kq7190VHyid993bwN5Nv3Eu5nUZ7ex5aof55z4svD_4K89mDyRBClEFSsRgWDbr3ak-0ozJBSt4BoI7hUREd4v-HJa5ER58ndk",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
 							"type": "string"
 						}
 					]
@@ -227,12 +222,12 @@
 						},
 						{
 							"key": "password",
-							"value": "12345",
+							"value": "123456",
 							"type": "text"
 						},
 						{
 							"key": "password_confirmation",
-							"value": "12345",
+							"value": "123456",
 							"type": "text"
 						}
 					]
@@ -320,7 +315,7 @@
 					"urlencoded": []
 				},
 				"url": {
-					"raw": "http://localhost/API-app-delivery/public/api/products/get?product_type=normal&category_ids=[3]&subcategory_ids=[8, 9]",
+					"raw": "http://localhost/API-app-delivery/public/api/products/get?product_type=&category_ids=[3]&subcategory_ids=[10]",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -335,7 +330,7 @@
 					"query": [
 						{
 							"key": "product_type",
-							"value": "normal"
+							"value": ""
 						},
 						{
 							"key": "category_ids",
@@ -343,7 +338,7 @@
 						},
 						{
 							"key": "subcategory_ids",
-							"value": "[8, 9]"
+							"value": "[10]"
 						}
 					]
 				}
@@ -374,12 +369,12 @@
 					"urlencoded": [
 						{
 							"key": "product_type",
-							"value": "normal",
+							"value": "delivery",
 							"type": "text"
 						},
 						{
 							"key": "search",
-							"value": "EST",
+							"value": "dolor",
 							"type": "text"
 						}
 					]
@@ -414,7 +409,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWI0MzY4ZDkzNGQ4ZjUwMWFjYjM0OWZkZTA3ZmZlM2E3ZDJmNWE5ZGFhNzBkOGFlYjE4OWVjMjQyZmIwZGQzZTFiYzhiMzI1Y2JlMTIxZjAiLCJpYXQiOjE2MjY2MjE0MTguNDE2NDQ1LCJuYmYiOjE2MjY2MjE0MTguNDE2NDUyLCJleHAiOjE2NTgxNTc0MTguNDA3MDg2LCJzdWIiOiIxMSIsInNjb3BlcyI6W119.QYgFEyShrVTS-bJjjl9bWJmfzCAV_Hgv8MYbngEunv4LhMNlPYC6-eHurfwGzYW8E3iOwORiBd40QrFD9PDOoQ-WTcxCCLlNTtLgmkxjz004MyWuF19HD98H6lD3_sbH6yiNeqSFncG69jgjt-bywYB6iSGOe0o_ffR8TwmzbHodo4Qx1-YNtWi50XdM3vP15I46Pir00xMib_udj4TBun0I-w3QZ4-i8xIO8_3sj_A2Xm2W9yye_ZdAIev48X4qDScu-XqvdZvW8FLGNG53h-asVRw9mfOtnSG-VfurxgtKADJcFksXm4kSsJ-qldB5DwYLdQrPWh9NjyqkvW2Frwckpscx_5F2Eev6kRZVCEOCzviHvADa-eSDOCaDrE34RooN9c_ycLV37Tg0nhh3kZTGpWYYBqZdxHnPeKWDTxX2kSK7kVUEVwPLaal8ZhDkvkbERnsP9fMUURH_zEbhYBtuSeqH_JnFKbmxh4JOkArZz1P0EIlQ7A7bYBC4zRnAkkF23nNsElcJlTqEL-O5WUrORvdbUQibgCySwRSlrk3HDxACaT-lljBx375KX2Z5J9SqjJd-dWLoRXuO0OhbHqj0dKCUF61WSyt53gEslFC80DcOkKT9MZ00HiMcVLqBexXfSOHN7SnTjJm2e9ynkmW2j2Y8AbJkKNLw7scsQuE",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
 							"type": "string"
 						}
 					]
@@ -487,7 +482,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWI0MzY4ZDkzNGQ4ZjUwMWFjYjM0OWZkZTA3ZmZlM2E3ZDJmNWE5ZGFhNzBkOGFlYjE4OWVjMjQyZmIwZGQzZTFiYzhiMzI1Y2JlMTIxZjAiLCJpYXQiOjE2MjY2MjE0MTguNDE2NDQ1LCJuYmYiOjE2MjY2MjE0MTguNDE2NDUyLCJleHAiOjE2NTgxNTc0MTguNDA3MDg2LCJzdWIiOiIxMSIsInNjb3BlcyI6W119.QYgFEyShrVTS-bJjjl9bWJmfzCAV_Hgv8MYbngEunv4LhMNlPYC6-eHurfwGzYW8E3iOwORiBd40QrFD9PDOoQ-WTcxCCLlNTtLgmkxjz004MyWuF19HD98H6lD3_sbH6yiNeqSFncG69jgjt-bywYB6iSGOe0o_ffR8TwmzbHodo4Qx1-YNtWi50XdM3vP15I46Pir00xMib_udj4TBun0I-w3QZ4-i8xIO8_3sj_A2Xm2W9yye_ZdAIev48X4qDScu-XqvdZvW8FLGNG53h-asVRw9mfOtnSG-VfurxgtKADJcFksXm4kSsJ-qldB5DwYLdQrPWh9NjyqkvW2Frwckpscx_5F2Eev6kRZVCEOCzviHvADa-eSDOCaDrE34RooN9c_ycLV37Tg0nhh3kZTGpWYYBqZdxHnPeKWDTxX2kSK7kVUEVwPLaal8ZhDkvkbERnsP9fMUURH_zEbhYBtuSeqH_JnFKbmxh4JOkArZz1P0EIlQ7A7bYBC4zRnAkkF23nNsElcJlTqEL-O5WUrORvdbUQibgCySwRSlrk3HDxACaT-lljBx375KX2Z5J9SqjJd-dWLoRXuO0OhbHqj0dKCUF61WSyt53gEslFC80DcOkKT9MZ00HiMcVLqBexXfSOHN7SnTjJm2e9ynkmW2j2Y8AbJkKNLw7scsQuE",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmM1NzBiOGQ5YjQ0NjM5ODI4MjU2YWQ2ZWUzNTYyOTQ5YTQxOTBiNDZmZmYzYjNiYTAzNmIxNTY3MGNjOGM0YWI3ZWFkZmZlM2I2ZGMwMTYiLCJpYXQiOjE2MjY2Nzk1NjkuODEwMTU2LCJuYmYiOjE2MjY2Nzk1NjkuODEwMTYzLCJleHAiOjE2NTgyMTU1NjkuODAzMjQsInN1YiI6IjEzIiwic2NvcGVzIjpbXX0.FN_OUo5aWMK_ASGeYxMOjUi9H7meHFxwXhkxE_RJ228CM0tpYdMi4y1JMF7DhhEOIOQujWhT0cT3AIWMTYv7x8IZZKctPxhbZfbhwOTwiZ30BE4-Cd_eALDJu8ANjOJY3gGaIKOVy5jIMiBb2fL3q0IODstrlXwhp51sAh2v0IXdf23Uj7UeGF2oZ3Mif_S564uEWN3NFDT5UTr4kONE9lWkFY-X3xkEi9cHCdZybEGd_p9dr4zUlytDxnCdG9gR5g8mzpIpBn3myfp927GZIkjTCO6n2WC3AiLnjowBTYZZFXp35B_Gmw7TDcrcZo1R7OzKlei9cZn5U0_9UtjhBmgOFQgLze21M0HKc9ysUSrF1DPe1LqQ-SKKM7FQDSB8VwUf9O6GKItNNuLa2Rk6bFKyzgdkQFFOIQQ_6whpYldDtHk0qaPcVIyHm9sRkrroz9DOvpmq8lkMphPE6bPpnRhwCGeoQq0SPsxyldllL-35QhuzDEMtbOJJ2nSizUXIrumwiduJH19B6pvJbUFiHxDBGzTS0EYHSsk60T036T9eVDC61Ak5JOv0GuTGQfJY3NUo0kO2w3ZNzodSWRyhogZQzcwVeUhKTGLYCaIwNfyWGnUCSFLCzOHC3GeDhfhUE5lGVsTWUylNQ9YFKB0fxASmLdWmHLVA1-a0nMH140o",
 							"type": "string"
 						}
 					]
