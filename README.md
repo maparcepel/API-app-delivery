@@ -6,14 +6,13 @@ Api desarrollada con PHP, Laravel y Passport para realizar pedidos y recuperarlo
 
 ## Herramientas utilizadas
 
-- Laravel 8.29.0
-- Json Web Token
-- [Paquete de traducciones Laravel en español](https://github.com/Laraveles/spanish).
+- Laravel 8.49.2
+- Laravel Passport
 
 ## Documentación 
 
 La documentación (hecha con Postman) está disponible en el siguiente enlace:
-https://documenter.getpostman.com/view/10581396/Tz5p5d96
+https://documenter.getpostman.com/view/10581396/TzmCiDxs
 
 ## Base de datos
 
