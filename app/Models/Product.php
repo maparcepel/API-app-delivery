@@ -18,4 +18,16 @@ class Product extends Model
         'description',
         'price'
     ];
+
+    public function orderItems(){
+        return $this->hasMany(OrderItem::class);
+    }
+    
+    public function category(){
+        return $this->belongsTo(Category::class);
+    }
+
+    public function subcategory(){
+        return $this->belongsTo(Subcategory::class);
+    }
 }

@@ -16,4 +16,12 @@ class OrderItem extends Model
         'quantity',
         'unit_price'
     ];
+
+    public function product(){
+        return $this->belongsTo(Product::class);
+    }
+
+    public function order(){
+        return $this->belonsTo(Order::class);
+    }
 }
